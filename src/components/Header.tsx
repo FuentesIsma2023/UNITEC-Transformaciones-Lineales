@@ -9,7 +9,7 @@ const Header = () => {
             </h1>
           </div>
           
-            {/* 
+            {
             <div className="grid md:grid-cols-2 gap-6 mt-6">
             <div className="bg-card/60 backdrop-blur-sm p-4 rounded-lg border border-primary/20">
               <h2 className="text-lg font-semibold text-primary mb-2">Información del Estudiante</h2>
@@ -23,12 +23,12 @@ const Header = () => {
               <h2 className="text-lg font-semibold text-secondary mb-2">Información Académica</h2>
               <div className="space-y-1 text-sm text-muted-foreground">
               <p><span className="text-foreground font-medium">Materia:</span> Álgebra Lineal</p>
-              <p><span className="text-foreground font-medium">Profesora:</span> Adriana Campos Ramírez</p>
+              <p><span className="text-foreground font-medium">Profesora:</span> Adriana Campos</p>
               <p><span className="text-foreground font-medium">Institución:</span> UNITEC</p>
               </div>
             </div>
             </div>
-            */}
+            }
           
           <div className="bg-accent/10 backdrop-blur-sm p-4 rounded-lg border border-accent/30 mt-4">
             <p className="text-sm text-foreground">
