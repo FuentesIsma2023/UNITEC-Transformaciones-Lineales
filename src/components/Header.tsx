@@ -5,7 +5,7 @@ const Header = () => {
         <div className="text-center space-y-4">
           <div className="inline-block px-6 py-3 bg-card/80 backdrop-blur-sm rounded-lg border border-primary/30 shadow-lg">
             <h1 className="text-3xl font-bold bg-gradient-to-r from-primary via-secondary to-accent bg-clip-text text-transparent">
-              Transformaciones Lineales Aplicadas a Logos
+              Representación de Transformaciones Lineales
             </h1>
           </div>
           
